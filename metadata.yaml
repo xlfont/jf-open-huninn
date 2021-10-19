@@ -1,0 +1,12 @@
+- name: jf-openhuninn-1-1
+  displayname: jf Open 粉圓 1.1
+  category: sans serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist
+        codes: 9676
+        weight: 400
+        xfl: true
